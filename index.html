@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Block Gradient Generator</title>
+  
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+  
+  <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css" />
+  <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
+
+  <py-config>
+    packages = ["numpy", "Pillow"]
+
+    [files]
+    "getData.py" = "./getData.py"
+    "hue.py" = "./hue.py"
+    "blocks_default_top.json" = "./blocks_default_top.json"
+    "blocks_default_side.json" = "./blocks_default_side.json"
+    "blocks_highres_top.json" = "./blocks_highres_top.json"
+    "blocks_highres_side.json" = "./blocks_highres_side.json"
+  </py-config>
+
+  <style>
+    .block-img {
+      width: 64px;
+      height: 64px;
+      cursor: pointer;
+      transition: transform 0.2s;
+      border: 2px solid transparent;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+    .block-img:hover {
+      transform: scale(1.1);
+      border-color: #0d6efd;
+    }
+    .block-result {
+      width: 64px;
+      height: 64px;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+    #blocks-container {
+      max-height: 400px; 
+      overflow-y: auto; 
+      align-content: flex-start;
+    }
+    /* Style for the selection boxes */
+    .selection-box {
+      width: 72px; 
+      height: 72px; 
+      display: flex; 
+      align-items: center; 
+      justify-content: center;
+    }
+    .selection-box img{
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+  </style>
+</head>
+<body class="p-4"> 
+  <div class="container-fluid">
+    
+    <div class="d-flex justify-content-between align-items-center mb-4">
+      <h2 class="mb-0">Minecraft Block Gradients</h2>
+      <button id="themeToggle" class="btn btn-secondary">
+        <i id="themeIcon" class="bi bi-moon-fill"></i>
+      </button>
+    </div>
+    
+    <div class="card shadow-sm">
+      <div class="card-body" id="home">
+        
+        <div class="mb-4 p-3 border rounded">
+          <h5>Search by Color (Optional)</h5>
+          <div class="d-flex align-items-center gap-3">
+            <input type="color" id="colorPicker" value="#4287f5" class="form-control form-control-color">
+            <button id="searchBtn" class="btn btn-primary" py-click="search_colors">Filter Blocks</button>
+            <button id="resetBtn" class="btn btn-outline-secondary" py-click="show_all_blocks">Show All</button>
+          </div>
+        </div>
+        <div class="mb-4 p-3 border rounded">
+          <h5>Texture Pack Source</h5>
+          <select id="folderSelect" class="form-select w-auto" py-change="change_folder">
+            <option value="blocks_highres_top" selected>High Resolution Top</option>
+            <option value="blocks_highres_side">High Resolution Side</option>
+            <option value="blocks_default_top">Standard Resolution Top</option>
+            <option value="blocks_default_side">Standard Resolution Side</option>
+          </select>
+        </div>
+        <div class="mb-4 p-3 border rounded">
+          <h5>Block Library <small class="text-muted">(Click exactly two to select)</small></h5>
+          <div id="blocks-container" class="d-flex gap-2 flex-wrap mt-3 p-2 bg-body-tertiary border rounded">
+            <div class="spinner-border text-primary" role="status" id="loading-spinner">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <span class="text-muted ms-2" id="loading-text">Loading your blocks...</span>
+          </div>
+        </div>
+
+        <div class="mb-4 p-3 border rounded">
+          <h5>Generate Gradient</h5>
+          <div class="d-flex align-items-center mb-3">
+            <div class="text-center">
+              <strong>Start Block</strong>
+              <div id="selection-1" class="selection-box mt-2 bg-body-tertiary border rounded border-success border-2 shadow-sm">
+                <span class="text-muted small">None</span>
+              </div>
+            </div>
+            
+            <div class="fs-2 mx-4">➡️</div>
+            
+            <div class="text-center">
+              <strong>End Block</strong>
+              <div id="selection-2" class="selection-box mt-2 bg-body-tertiary border rounded border-primary border-2 shadow-sm">
+                <span class="text-muted small">None</span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="d-flex align-items-center gap-3 mt-4">
+            <label>Number of Steps:</label>
+            <input type="number" id="stepCount" class="form-control" value="5" min="3" max="20" style="width: 80px;">
+            <button id="gradientBtn" class="btn btn-success" py-click="generate_gradient">Create Gradient</button>
+          </div>
+        </div>
+
+        <div class="p-3 border rounded">
+          <h5>Your Result</h5>
+          <div id="gradient-result-container" class="d-flex mt-3" style="overflow-x: auto;">
+            <span class="text-muted">Your gradient will appear here...</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  
+  <script src="misc.js"></script>
+  <script type="py" src="./main.py"></script>
+</body>
+</html>

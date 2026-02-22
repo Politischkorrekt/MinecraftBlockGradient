@@ -1,0 +1,1747 @@
+{
+  "acacia_log": [
+    100,
+    93,
+    84
+  ],
+  "acacia_log_top": [
+    151,
+    89,
+    55
+  ],
+  "acacia_planks": [
+    171,
+    92,
+    50
+  ],
+  "amethyst_block": [
+    127,
+    93,
+    187
+  ],
+  "ancient_debris_side": [
+    91,
+    58,
+    50
+  ],
+  "ancient_debris_top": [
+    90,
+    58,
+    50
+  ],
+  "andesite": [
+    134,
+    134,
+    135
+  ],
+  "bamboo_block": [
+    132,
+    149,
+    60
+  ],
+  "bamboo_block_top": [
+    122,
+    128,
+    54
+  ],
+  "bamboo_mosaic": [
+    200,
+    178,
+    80
+  ],
+  "bamboo_planks": [
+    202,
+    180,
+    81
+  ],
+  "barrel_bottom": [
+    119,
+    88,
+    51
+  ],
+  "barrel_side": [
+    112,
+    84,
+    51
+  ],
+  "barrel_top": [
+    135,
+    101,
+    59
+  ],
+  "barrel_top_open": [
+    77,
+    56,
+    27
+  ],
+  "basalt_side": [
+    72,
+    72,
+    78
+  ],
+  "basalt_top": [
+    82,
+    82,
+    86
+  ],
+  "beehive_end": [
+    180,
+    146,
+    90
+  ],
+  "bee_nest_top": [
+    226,
+    187,
+    88
+  ],
+  "birch_log": [
+    227,
+    226,
+    222
+  ],
+  "birch_log_top": [
+    200,
+    187,
+    143
+  ],
+  "birch_planks": [
+    197,
+    179,
+    122
+  ],
+  "blackstone": [
+    41,
+    33,
+    40
+  ],
+  "blackstone_top": [
+    42,
+    36,
+    42
+  ],
+  "black_concrete": [
+    8,
+    10,
+    15
+  ],
+  "black_concrete_powder": [
+    26,
+    27,
+    32
+  ],
+  "black_glazed_terracotta": [
+    66,
+    34,
+    37
+  ],
+  "black_shulker_box": [
+    29,
+    29,
+    33
+  ],
+  "black_terracotta": [
+    38,
+    23,
+    17
+  ],
+  "black_wool": [
+    21,
+    22,
+    26
+  ],
+  "blast_furnace_top": [
+    78,
+    78,
+    78
+  ],
+  "blue_concrete": [
+    45,
+    47,
+    143
+  ],
+  "blue_concrete_powder": [
+    71,
+    73,
+    168
+  ],
+  "blue_glazed_terracotta": [
+    47,
+    58,
+    129
+  ],
+  "blue_shulker_box": [
+    48,
+    50,
+    149
+  ],
+  "blue_terracotta": [
+    74,
+    59,
+    91
+  ],
+  "blue_wool": [
+    53,
+    57,
+    157
+  ],
+  "bone_block_side": [
+    230,
+    226,
+    208
+  ],
+  "bone_block_top": [
+    210,
+    207,
+    180
+  ],
+  "bricks": [
+    151,
+    91,
+    75
+  ],
+  "brown_concrete": [
+    96,
+    60,
+    32
+  ],
+  "brown_concrete_powder": [
+    126,
+    85,
+    54
+  ],
+  "brown_glazed_terracotta": [
+    108,
+    97,
+    76
+  ],
+  "brown_mushroom_block": [
+    149,
+    112,
+    81
+  ],
+  "brown_shulker_box": [
+    112,
+    70,
+    38
+  ],
+  "brown_terracotta": [
+    78,
+    52,
+    36
+  ],
+  "brown_wool": [
+    112,
+    70,
+    40
+  ],
+  "budding_amethyst": [
+    122,
+    89,
+    181
+  ],
+  "calcite": [
+    222,
+    223,
+    219
+  ],
+  "cartography_table_top": [
+    104,
+    88,
+    73
+  ],
+  "cherry_log": [
+    53,
+    32,
+    43
+  ],
+  "cherry_log_top": [
+    185,
+    141,
+    138
+  ],
+  "cherry_planks": [
+    229,
+    183,
+    177
+  ],
+  "chiseled_copper": [
+    182,
+    99,
+    71
+  ],
+  "chiseled_deepslate": [
+    57,
+    57,
+    58
+  ],
+  "chiseled_nether_bricks": [
+    48,
+    24,
+    28
+  ],
+  "chiseled_polished_blackstone": [
+    53,
+    49,
+    57
+  ],
+  "chiseled_quartz_block_top": [
+    230,
+    224,
+    214
+  ],
+  "chiseled_resin_bricks": [
+    202,
+    82,
+    20
+  ],
+  "chiseled_stone_bricks": [
+    123,
+    122,
+    123
+  ],
+  "chiseled_tuff_bricks_top": [
+    110,
+    113,
+    106
+  ],
+  "chiseled_tuff_top": [
+    93,
+    98,
+    90
+  ],
+  "clay": [
+    160,
+    166,
+    177
+  ],
+  "coal_block": [
+    14,
+    14,
+    14
+  ],
+  "coal_ore": [
+    109,
+    109,
+    109
+  ],
+  "coarse_dirt": [
+    124,
+    89,
+    62
+  ],
+  "cobbled_deepslate": [
+    76,
+    76,
+    80
+  ],
+  "cobblestone": [
+    128,
+    127,
+    128
+  ],
+  "copper_block": [
+    194,
+    109,
+    80
+  ],
+  "copper_bulb": [
+    164,
+    93,
+    61
+  ],
+  "copper_bulb_lit": [
+    218,
+    162,
+    126
+  ],
+  "copper_ore": [
+    125,
+    125,
+    120
+  ],
+  "cracked_deepslate_bricks": [
+    71,
+    71,
+    71
+  ],
+  "cracked_deepslate_tiles": [
+    56,
+    56,
+    57
+  ],
+  "cracked_nether_bricks": [
+    43,
+    21,
+    25
+  ],
+  "cracked_polished_blackstone_bricks": [
+    47,
+    41,
+    48
+  ],
+  "cracked_stone_bricks": [
+    122,
+    121,
+    122
+  ],
+  "crafting_table_top": [
+    155,
+    96,
+    56
+  ],
+  "crimson_nylium": [
+    128,
+    31,
+    31
+  ],
+  "crimson_planks": [
+    104,
+    51,
+    73
+  ],
+  "crying_obsidian": [
+    23,
+    9,
+    42
+  ],
+  "cut_copper": [
+    193,
+    109,
+    81
+  ],
+  "cyan_concrete": [
+    21,
+    119,
+    136
+  ],
+  "cyan_concrete_powder": [
+    36,
+    148,
+    157
+  ],
+  "cyan_glazed_terracotta": [
+    50,
+    118,
+    125
+  ],
+  "cyan_shulker_box": [
+    22,
+    130,
+    142
+  ],
+  "cyan_terracotta": [
+    86,
+    90,
+    91
+  ],
+  "cyan_wool": [
+    21,
+    137,
+    144
+  ],
+  "dark_oak_log": [
+    58,
+    45,
+    25
+  ],
+  "dark_oak_log_top": [
+    65,
+    44,
+    21
+  ],
+  "dark_oak_planks": [
+    69,
+    45,
+    21
+  ],
+  "dark_prismarine": [
+    56,
+    96,
+    80
+  ],
+  "dead_brain_coral_block": [
+    118,
+    112,
+    109
+  ],
+  "dead_bubble_coral_block": [
+    129,
+    122,
+    118
+  ],
+  "dead_fire_coral_block": [
+    134,
+    126,
+    122
+  ],
+  "dead_horn_coral_block": [
+    133,
+    125,
+    120
+  ],
+  "dead_tube_coral_block": [
+    124,
+    116,
+    113
+  ],
+  "deepslate": [
+    77,
+    77,
+    80
+  ],
+  "deepslate_bricks": [
+    73,
+    73,
+    74
+  ],
+  "deepslate_coal_ore": [
+    72,
+    72,
+    74
+  ],
+  "deepslate_copper_ore": [
+    88,
+    88,
+    85
+  ],
+  "deepslate_diamond_ore": [
+    80,
+    98,
+    99
+  ],
+  "deepslate_emerald_ore": [
+    74,
+    93,
+    81
+  ],
+  "deepslate_gold_ore": [
+    110,
+    100,
+    75
+  ],
+  "deepslate_iron_ore": [
+    95,
+    90,
+    88
+  ],
+  "deepslate_lapis_ore": [
+    74,
+    84,
+    106
+  ],
+  "deepslate_redstone_ore": [
+    96,
+    72,
+    74
+  ],
+  "deepslate_tiles": [
+    57,
+    57,
+    57
+  ],
+  "deepslate_top": [
+    88,
+    88,
+    90
+  ],
+  "diamond_block": [
+    101,
+    242,
+    231
+  ],
+  "diamond_ore": [
+    118,
+    136,
+    135
+  ],
+  "diorite": [
+    188,
+    188,
+    189
+  ],
+  "dirt": [
+    135,
+    97,
+    68
+  ],
+  "dried_kelp_bottom": [
+    49,
+    57,
+    37
+  ],
+  "dried_kelp_side": [
+    36,
+    46,
+    26
+  ],
+  "dried_kelp_top": [
+    44,
+    54,
+    33
+  ],
+  "emerald_block": [
+    39,
+    209,
+    90
+  ],
+  "emerald_ore": [
+    112,
+    132,
+    116
+  ],
+  "end_stone": [
+    219,
+    223,
+    158
+  ],
+  "end_stone_bricks": [
+    221,
+    228,
+    164
+  ],
+  "exposed_chiseled_copper": [
+    151,
+    117,
+    98
+  ],
+  "exposed_copper": [
+    158,
+    123,
+    101
+  ],
+  "exposed_copper_bulb": [
+    138,
+    111,
+    92
+  ],
+  "exposed_copper_bulb_lit": [
+    194,
+    156,
+    115
+  ],
+  "exposed_cut_copper": [
+    155,
+    123,
+    101
+  ],
+  "furnace_top": [
+    113,
+    113,
+    113
+  ],
+  "gilded_blackstone": [
+    50,
+    39,
+    39
+  ],
+  "glowstone": [
+    183,
+    146,
+    98
+  ],
+  "gold_block": [
+    250,
+    213,
+    62
+  ],
+  "gold_ore": [
+    144,
+    134,
+    107
+  ],
+  "granite": [
+    149,
+    102,
+    84
+  ],
+  "gravel": [
+    131,
+    126,
+    125
+  ],
+  "gray_concrete": [
+    55,
+    58,
+    62
+  ],
+  "gray_concrete_powder": [
+    78,
+    82,
+    86
+  ],
+  "gray_glazed_terracotta": [
+    80,
+    88,
+    91
+  ],
+  "gray_shulker_box": [
+    60,
+    63,
+    67
+  ],
+  "gray_terracotta": [
+    58,
+    42,
+    35
+  ],
+  "gray_wool": [
+    62,
+    68,
+    71
+  ],
+  "green_concrete": [
+    73,
+    91,
+    36
+  ],
+  "green_concrete_powder": [
+    98,
+    120,
+    45
+  ],
+  "green_glazed_terracotta": [
+    111,
+    137,
+    55
+  ],
+  "green_shulker_box": [
+    82,
+    106,
+    30
+  ],
+  "green_terracotta": [
+    75,
+    83,
+    42
+  ],
+  "green_wool": [
+    84,
+    109,
+    27
+  ],
+  "hay_block_side": [
+    170,
+    144,
+    39
+  ],
+  "hay_block_top": [
+    166,
+    139,
+    12
+  ],
+  "honeycomb_block": [
+    229,
+    151,
+    36
+  ],
+  "iron_block": [
+    224,
+    224,
+    224
+  ],
+  "iron_ore": [
+    131,
+    126,
+    122
+  ],
+  "item_frame": [
+    119,
+    68,
+    43
+  ],
+  "jungle_log": [
+    84,
+    67,
+    24
+  ],
+  "jungle_log_top": [
+    152,
+    111,
+    71
+  ],
+  "jungle_planks": [
+    166,
+    119,
+    83
+  ],
+  "lapis_block": [
+    31,
+    67,
+    140
+  ],
+  "lapis_ore": [
+    108,
+    118,
+    139
+  ],
+  "light_blue_concrete": [
+    36,
+    137,
+    199
+  ],
+  "light_blue_concrete_powder": [
+    75,
+    181,
+    213
+  ],
+  "light_blue_glazed_terracotta": [
+    96,
+    167,
+    210
+  ],
+  "light_blue_shulker_box": [
+    55,
+    174,
+    217
+  ],
+  "light_blue_terracotta": [
+    113,
+    108,
+    138
+  ],
+  "light_blue_wool": [
+    57,
+    172,
+    214
+  ],
+  "light_gray_concrete": [
+    125,
+    125,
+    115
+  ],
+  "light_gray_concrete_powder": [
+    156,
+    155,
+    149
+  ],
+  "light_gray_glazed_terracotta": [
+    161,
+    186,
+    188
+  ],
+  "light_gray_shulker_box": [
+    134,
+    134,
+    125
+  ],
+  "light_gray_terracotta": [
+    136,
+    107,
+    97
+  ],
+  "light_gray_wool": [
+    141,
+    141,
+    134
+  ],
+  "lime_concrete": [
+    94,
+    169,
+    24
+  ],
+  "lime_concrete_powder": [
+    126,
+    190,
+    43
+  ],
+  "lime_glazed_terracotta": [
+    155,
+    206,
+    56
+  ],
+  "lime_shulker_box": [
+    108,
+    183,
+    24
+  ],
+  "lime_terracotta": [
+    104,
+    118,
+    53
+  ],
+  "lime_wool": [
+    112,
+    184,
+    25
+  ],
+  "lodestone_top": [
+    150,
+    152,
+    156
+  ],
+  "magenta_concrete": [
+    169,
+    48,
+    159
+  ],
+  "magenta_concrete_powder": [
+    194,
+    85,
+    186
+  ],
+  "magenta_glazed_terracotta": [
+    207,
+    93,
+    195
+  ],
+  "magenta_shulker_box": [
+    181,
+    59,
+    171
+  ],
+  "magenta_terracotta": [
+    149,
+    87,
+    108
+  ],
+  "magenta_wool": [
+    187,
+    68,
+    177
+  ],
+  "magma": [
+    132,
+    57,
+    27
+  ],
+  "mangrove_log": [
+    84,
+    67,
+    41
+  ],
+  "mangrove_log_top": [
+    102,
+    48,
+    42
+  ],
+  "mangrove_planks": [
+    119,
+    56,
+    50
+  ],
+  "melon_side": [
+    101,
+    140,
+    31
+  ],
+  "melon_top": [
+    105,
+    142,
+    31
+  ],
+  "mossy_cobblestone": [
+    112,
+    121,
+    98
+  ],
+  "mossy_stone_bricks": [
+    118,
+    123,
+    108
+  ],
+  "moss_block": [
+    87,
+    108,
+    45
+  ],
+  "mud": [
+    60,
+    57,
+    60
+  ],
+  "muddy_mangrove_roots_side": [
+    67,
+    58,
+    49
+  ],
+  "muddy_mangrove_roots_top": [
+    69,
+    58,
+    47
+  ],
+  "mud_bricks": [
+    143,
+    108,
+    81
+  ],
+  "mushroom_block_inside": [
+    202,
+    170,
+    120
+  ],
+  "mycelium_side": [
+    117,
+    90,
+    73
+  ],
+  "mycelium_top": [
+    110,
+    98,
+    101
+  ],
+  "netherite_block": [
+    69,
+    64,
+    67
+  ],
+  "netherrack": [
+    97,
+    38,
+    38
+  ],
+  "nether_bricks": [
+    45,
+    22,
+    26
+  ],
+  "nether_gold_ore": [
+    115,
+    55,
+    41
+  ],
+  "nether_quartz_ore": [
+    112,
+    60,
+    57
+  ],
+  "nether_wart_block": [
+    116,
+    4,
+    3
+  ],
+  "note_block": [
+    88,
+    56,
+    37
+  ],
+  "oak_log": [
+    106,
+    83,
+    49
+  ],
+  "oak_log_top": [
+    152,
+    123,
+    73
+  ],
+  "oak_planks": [
+    168,
+    136,
+    82
+  ],
+  "obsidian": [
+    12,
+    9,
+    21
+  ],
+  "ochre_froglight_side": [
+    247,
+    237,
+    191
+  ],
+  "ochre_froglight_top": [
+    252,
+    247,
+    212
+  ],
+  "orange_concrete": [
+    224,
+    97,
+    1
+  ],
+  "orange_concrete_powder": [
+    228,
+    133,
+    33
+  ],
+  "orange_glazed_terracotta": [
+    152,
+    150,
+    94
+  ],
+  "orange_shulker_box": [
+    240,
+    112,
+    12
+  ],
+  "orange_terracotta": [
+    162,
+    84,
+    38
+  ],
+  "orange_wool": [
+    239,
+    117,
+    19
+  ],
+  "oxidized_chiseled_copper": [
+    82,
+    161,
+    131
+  ],
+  "oxidized_copper": [
+    83,
+    167,
+    137
+  ],
+  "oxidized_copper_bulb": [
+    71,
+    138,
+    113
+  ],
+  "oxidized_copper_bulb_lit": [
+    139,
+    162,
+    107
+  ],
+  "oxidized_cut_copper": [
+    80,
+    155,
+    126
+  ],
+  "packed_mud": [
+    147,
+    111,
+    82
+  ],
+  "pale_moss_block": [
+    104,
+    109,
+    102
+  ],
+  "pale_oak_log": [
+    88,
+    77,
+    74
+  ],
+  "pale_oak_log_top": [
+    197,
+    188,
+    186
+  ],
+  "pale_oak_planks": [
+    231,
+    221,
+    220
+  ],
+  "pearlescent_froglight_side": [
+    239,
+    230,
+    232
+  ],
+  "pearlescent_froglight_top": [
+    248,
+    243,
+    242
+  ],
+  "pink_concrete": [
+    213,
+    101,
+    143
+  ],
+  "pink_concrete_powder": [
+    231,
+    152,
+    181
+  ],
+  "pink_glazed_terracotta": [
+    234,
+    151,
+    178
+  ],
+  "pink_shulker_box": [
+    238,
+    132,
+    165
+  ],
+  "pink_terracotta": [
+    162,
+    78,
+    79
+  ],
+  "pink_wool": [
+    233,
+    140,
+    171
+  ],
+  "piston_bottom": [
+    103,
+    102,
+    102
+  ],
+  "piston_side": [
+    117,
+    112,
+    104
+  ],
+  "piston_top": [
+    162,
+    136,
+    90
+  ],
+  "piston_top_sticky": [
+    134,
+    159,
+    98
+  ],
+  "podzol_side": [
+    124,
+    88,
+    57
+  ],
+  "podzol_top": [
+    92,
+    63,
+    24
+  ],
+  "polished_andesite": [
+    131,
+    134,
+    133
+  ],
+  "polished_basalt_side": [
+    88,
+    88,
+    91
+  ],
+  "polished_basalt_top": [
+    101,
+    100,
+    102
+  ],
+  "polished_blackstone": [
+    52,
+    48,
+    56
+  ],
+  "polished_blackstone_bricks": [
+    49,
+    43,
+    51
+  ],
+  "polished_deepslate": [
+    73,
+    73,
+    74
+  ],
+  "polished_diorite": [
+    197,
+    197,
+    199
+  ],
+  "polished_granite": [
+    156,
+    106,
+    88
+  ],
+  "polished_tuff": [
+    97,
+    104,
+    101
+  ],
+  "powder_snow": [
+    248,
+    253,
+    253
+  ],
+  "prismarine": [
+    103,
+    162,
+    156
+  ],
+  "prismarine_bricks": [
+    98,
+    173,
+    161
+  ],
+  "pumpkin_top": [
+    205,
+    128,
+    24
+  ],
+  "purple_concrete": [
+    100,
+    32,
+    156
+  ],
+  "purple_concrete_powder": [
+    132,
+    55,
+    177
+  ],
+  "purple_glazed_terracotta": [
+    104,
+    41,
+    149
+  ],
+  "purple_shulker_box": [
+    111,
+    36,
+    164
+  ],
+  "purple_terracotta": [
+    119,
+    70,
+    86
+  ],
+  "purple_wool": [
+    119,
+    41,
+    170
+  ],
+  "purpur_block": [
+    171,
+    125,
+    171
+  ],
+  "purpur_pillar": [
+    172,
+    128,
+    172
+  ],
+  "purpur_pillar_top": [
+    170,
+    125,
+    170
+  ],
+  "quartz_block_bottom": [
+    237,
+    230,
+    223
+  ],
+  "quartz_block_side": [
+    237,
+    230,
+    223
+  ],
+  "quartz_block_top": [
+    236,
+    230,
+    223
+  ],
+  "quartz_bricks": [
+    236,
+    230,
+    222
+  ],
+  "quartz_pillar": [
+    235,
+    230,
+    223
+  ],
+  "quartz_pillar_top": [
+    237,
+    232,
+    226
+  ],
+  "raw_copper_block": [
+    161,
+    105,
+    79
+  ],
+  "raw_gold_block": [
+    223,
+    171,
+    48
+  ],
+  "raw_iron_block": [
+    157,
+    129,
+    99
+  ],
+  "redstone_block": [
+    170,
+    24,
+    5
+  ],
+  "redstone_lamp": [
+    110,
+    64,
+    36
+  ],
+  "redstone_ore": [
+    136,
+    111,
+    111
+  ],
+  "red_concrete": [
+    142,
+    33,
+    33
+  ],
+  "red_concrete_powder": [
+    169,
+    54,
+    51
+  ],
+  "red_glazed_terracotta": [
+    182,
+    58,
+    52
+  ],
+  "red_mushroom_block": [
+    199,
+    45,
+    44
+  ],
+  "red_nether_bricks": [
+    68,
+    7,
+    9
+  ],
+  "red_sand": [
+    191,
+    103,
+    33
+  ],
+  "red_sandstone_top": [
+    180,
+    97,
+    31
+  ],
+  "red_shulker_box": [
+    150,
+    35,
+    32
+  ],
+  "red_terracotta": [
+    142,
+    60,
+    46
+  ],
+  "red_wool": [
+    160,
+    39,
+    34
+  ],
+  "resin_block": [
+    222,
+    104,
+    25
+  ],
+  "resin_bricks": [
+    205,
+    83,
+    18
+  ],
+  "rooted_dirt": [
+    139,
+    101,
+    73
+  ],
+  "sand": [
+    219,
+    207,
+    163
+  ],
+  "sandstone_top": [
+    223,
+    213,
+    169
+  ],
+  "sculk": [
+    15,
+    25,
+    31
+  ],
+  "shroomlight": [
+    243,
+    151,
+    75
+  ],
+  "shulker_box": [
+    146,
+    101,
+    146
+  ],
+  "smithing_table_top": [
+    55,
+    57,
+    68
+  ],
+  "smooth_basalt": [
+    72,
+    71,
+    77
+  ],
+  "smooth_stone": [
+    161,
+    161,
+    161
+  ],
+  "snow": [
+    249,
+    254,
+    254
+  ],
+  "soul_sand": [
+    80,
+    61,
+    49
+  ],
+  "soul_soil": [
+    74,
+    56,
+    46
+  ],
+  "sponge": [
+    198,
+    195,
+    76
+  ],
+  "spruce_log": [
+    56,
+    36,
+    16
+  ],
+  "spruce_log_top": [
+    110,
+    81,
+    46
+  ],
+  "spruce_planks": [
+    118,
+    88,
+    51
+  ],
+  "stone": [
+    123,
+    123,
+    123
+  ],
+  "stone_bricks": [
+    124,
+    123,
+    124
+  ],
+  "stripped_acacia_log": [
+    175,
+    93,
+    60
+  ],
+  "stripped_acacia_log_top": [
+    165,
+    91,
+    52
+  ],
+  "stripped_bamboo_block": [
+    202,
+    180,
+    81
+  ],
+  "stripped_bamboo_block_top": [
+    160,
+    141,
+    63
+  ],
+  "stripped_birch_log": [
+    199,
+    178,
+    119
+  ],
+  "stripped_birch_log_top": [
+    190,
+    171,
+    115
+  ],
+  "stripped_cherry_log": [
+    216,
+    146,
+    150
+  ],
+  "stripped_cherry_log_top": [
+    222,
+    165,
+    158
+  ],
+  "stripped_dark_oak_log": [
+    74,
+    58,
+    36
+  ],
+  "stripped_dark_oak_log_top": [
+    65,
+    44,
+    23
+  ],
+  "stripped_jungle_log": [
+    176,
+    134,
+    88
+  ],
+  "stripped_jungle_log_top": [
+    165,
+    122,
+    81
+  ],
+  "stripped_mangrove_log": [
+    120,
+    54,
+    48
+  ],
+  "stripped_mangrove_log_top": [
+    109,
+    43,
+    43
+  ],
+  "stripped_oak_log": [
+    179,
+    145,
+    86
+  ],
+  "stripped_oak_log_top": [
+    160,
+    130,
+    77
+  ],
+  "stripped_pale_oak_log": [
+    246,
+    238,
+    237
+  ],
+  "stripped_pale_oak_log_top": [
+    234,
+    225,
+    224
+  ],
+  "stripped_spruce_log": [
+    116,
+    90,
+    53
+  ],
+  "stripped_spruce_log_top": [
+    106,
+    80,
+    46
+  ],
+  "terracotta": [
+    152,
+    94,
+    68
+  ],
+  "tuff": [
+    107,
+    108,
+    101
+  ],
+  "tuff_bricks": [
+    101,
+    106,
+    101
+  ],
+  "verdant_froglight_side": [
+    217,
+    238,
+    214
+  ],
+  "verdant_froglight_top": [
+    233,
+    246,
+    232
+  ],
+  "warped_nylium": [
+    44,
+    111,
+    99
+  ],
+  "warped_planks": [
+    45,
+    109,
+    102
+  ],
+  "warped_wart_block": [
+    23,
+    121,
+    121
+  ],
+  "weathered_chiseled_copper": [
+    103,
+    150,
+    108
+  ],
+  "weathered_copper": [
+    108,
+    154,
+    107
+  ],
+  "weathered_copper_bulb": [
+    92,
+    132,
+    100
+  ],
+  "weathered_copper_bulb_lit": [
+    162,
+    164,
+    101
+  ],
+  "weathered_cut_copper": [
+    110,
+    147,
+    107
+  ],
+  "wet_sponge": [
+    175,
+    186,
+    72
+  ],
+  "white_concrete": [
+    207,
+    213,
+    214
+  ],
+  "white_concrete_powder": [
+    226,
+    227,
+    228
+  ],
+  "white_glazed_terracotta": [
+    199,
+    225,
+    213
+  ],
+  "white_shulker_box": [
+    225,
+    229,
+    229
+  ],
+  "white_terracotta": [
+    210,
+    178,
+    162
+  ],
+  "white_wool": [
+    231,
+    233,
+    234
+  ],
+  "yellow_concrete": [
+    241,
+    175,
+    21
+  ],
+  "yellow_concrete_powder": [
+    234,
+    200,
+    54
+  ],
+  "yellow_glazed_terracotta": [
+    233,
+    194,
+    90
+  ],
+  "yellow_shulker_box": [
+    250,
+    195,
+    33
+  ],
+  "yellow_terracotta": [
+    186,
+    132,
+    35
+  ],
+  "yellow_wool": [
+    246,
+    195,
+    38
+  ]
+}
