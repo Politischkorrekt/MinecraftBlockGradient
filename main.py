@@ -8,7 +8,7 @@ from hue import find_closest_blocks, find_blocks_hsv
 current_folder = document.getElementById("folderSelect").value
 with open(current_folder+".json", "r") as f:
     block_dict = json.load(f)
-
+click_mode = document.querySelector('input[name="clickMode"]:checked').value
 selected_blocks = []
 excluded_blocks = []
 
